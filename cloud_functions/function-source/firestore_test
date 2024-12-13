@@ -1,0 +1,6 @@
+import functions_framework
+from flask import jsonify
+
+@functions_framework.http
+def test_firestore_connection(request):
+    return jsonify({"message": "Hello World!"})
