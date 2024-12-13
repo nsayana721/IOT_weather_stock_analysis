@@ -94,17 +94,4 @@ The primary objective is to analyze how weather conditions influence:
 - Limited features from free APIs (e.g., lack of solar irradiance data).
 - Small dataset affecting the accuracy of advanced predictive models.
 
----
-
-## **Future Work**
-1. **Extended Data Collection**:
-   - Expand the dataset to capture seasonal variations and long-term trends.
-2. **Advanced Metrics**:
-   - Incorporate additional weather parameters like precipitation and solar irradiance.
-3. **Enhanced Predictive Models**:
-   - Use larger datasets for complex models like random forests and boosting algorithms.
-4. **Real-Time Actuation**:
-   - Fully automate email alerts and integrate app-based notifications for stakeholders.
-5. **Broader Applications**:
-   - Extend analysis to other cities and industries to generalize findings.
 
